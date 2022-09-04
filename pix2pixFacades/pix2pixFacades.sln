@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pix2pixFacades", "pix2pixFacades.pyproj", "{A2FB463C-7599-4E33-8B2A-1C898C5AD99E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FB463C-7599-4E33-8B2A-1C898C5AD99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FB463C-7599-4E33-8B2A-1C898C5AD99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {572BC8B8-1A24-4ACE-A869-1E1A7F4170C0}
+	EndGlobalSection
+EndGlobal
